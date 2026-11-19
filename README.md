@@ -3,9 +3,9 @@
 Erste Karte mit ArcGIS Pro. 
 
 Gelernt:
-- Höhenraster importieren
+- Höhenraster importieren (.bil)
 - Einfache Farbverläufe
-- Einfache Schummerung
+- Einfache Schummerung über Raster-Funktionen
 - Grobes Layout
 - Layer-Verschmelzungen
 
@@ -22,9 +22,9 @@ Gelernt:
 - Symbolisierung
 - Farbverläufe selbst erstellen
 - Styles importieren
-- Living Atlas kennengelernt
-- Global Background und Maske für dunklen Hintergrund
-- Layer-Reihenfolgen und Verschmelzungen für eine Annäherung an Imhof's Stil
+- Living Atlas kennengelernt und Ländergrenzen daraus importiert
+- Global Background und Maske für dunklen Hintergrund aus Living Atlas
+- Mit Layer-Reihenfolgen und Verschmelzungen experimentiert für eine Annäherung an Imhof's Stil
 - Genaue Zoomstufen durch Maßstabsänderungen bestimmen
 - Grafischer Maßstab im Layout
 
@@ -35,3 +35,13 @@ Probleme:
 
 ## 4. Woche (05.11.2026) - Geländedarstellung Reproduktion Übung
 Reproduktion des Stils einer Wandkarte von Berlin-Brandenburg.
+
+
+![enter image description here]((https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/BBReproduktion.png?raw=true))
+
+## 5. Woche (12.11.2026) - Höhenschichten & Tanaka
+
+Darstellung von Höhenschichten in Berlin.
+
+![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/Schichten.png?raw=true)
+
