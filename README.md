@@ -14,7 +14,7 @@ Probleme:
 
 ![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Berg3D/refs/heads/main/Layout.png)
 
-## 2. & 3. Woche (22. - 29.10.2026) - Geländedarstellung II
+## 2. & 3. Woche (15. - 22.10.2026) - Geländedarstellung II
 Zweite Karte mit ArcGis Pro im Stil von Imhof.
 
 Gelernt:
@@ -33,15 +33,19 @@ Probleme:
 
 ![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/3DVisualisierung_ReliefkarteImhofDE_2026_10_29.png)
 
-## 4. Woche (05.11.2026) - Geländedarstellung Reproduktion Übung
+## 4. Woche (29.11.2026) - Geländedarstellung Reproduktion Übung
 Reproduktion des Stils einer Wandkarte von Berlin-Brandenburg.
-
 
 ![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/BBReproduktion.png?raw=true)
 
-## 5. Woche (12.11.2026) - Höhenschichten & Tanaka
+## Höhenschichten
 
 Darstellung von Höhenschichten in Berlin.
 
 ![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/Schichten.png?raw=true)
 
+## 5. Woche (05.11.2026) - Tanaka
+
+Darstellung der Höhenschichten in Berlin mit der Tanaka-Methode.
+
+![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/Tanaka.jpg?raw=true)
