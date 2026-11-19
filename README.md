@@ -1,5 +1,5 @@
 # Gelaendedarstellung
-## 1. Woche (08.10.2026)
+## 1. Woche (08.10.2026) - Geländedarstellung I
 Erste Karte mit ArcGIS Pro. 
 
 Gelernt:
@@ -14,7 +14,7 @@ Probleme:
 
 ![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Berg3D/refs/heads/main/Layout.png)
 
-## 2. & 3. Woche (22. - 29.10.2026)
+## 2. & 3. Woche (22. - 29.10.2026) - Geländedarstellung II
 Zweite Karte mit ArcGis Pro im Stil von Imhof.
 
 Gelernt:
@@ -26,8 +26,12 @@ Gelernt:
 - Global Background und Maske für dunklen Hintergrund
 - Layer-Reihenfolgen und Verschmelzungen für eine Annäherung an Imhof's Stil
 - Genaue Zoomstufen durch Maßstabsänderungen bestimmen
+- Grafischer Maßstab im Layout
 
 Probleme:
 - Stil der Karte auch vom Maßstab abhängig
 
 ![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/3DVisualisierung_ReliefkarteImhofDE_2026_10_29.png)
+
+## 4. Woche (05.11.2026) - Geländedarstellung Reproduktion Übung
+Reproduktion des Stils einer Wandkarte von Berlin-Brandenburg.
