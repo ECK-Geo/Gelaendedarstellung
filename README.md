@@ -1,6 +1,7 @@
 # Gelaendedarstellung
 ## 1. Woche (08.10.2026)
 Erste Karte mit ArcGIS Pro. 
+
 Gelernt:
 - Höhenraster importieren
 - Einfache Farbverläufe
@@ -15,6 +16,7 @@ Probleme:
 
 ## 2. & 3. Woche (22. - 29.10.2026)
 Zweite Karte mit ArcGis Pro im Stil von Imhof.
+
 Gelernt:
 - Der Stil von Imhof
 - Symbolisierung
