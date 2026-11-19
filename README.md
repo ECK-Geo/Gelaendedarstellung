@@ -37,7 +37,7 @@ Probleme:
 Reproduktion des Stils einer Wandkarte von Berlin-Brandenburg.
 
 
-![enter image description here]((https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/BBReproduktion.png?raw=true))
+![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/BBReproduktion.png?raw=true)
 
 ## 5. Woche (12.11.2026) - Höhenschichten & Tanaka
 
