@@ -33,7 +33,7 @@ Probleme:
 
 ![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/3DVisualisierung_ReliefkarteImhofDE_2026_10_29.png)
 
-## 4. Woche (29.11.2026) - Geländedarstellung Reproduktion Übung
+## 4. Woche (29.10.2026) - Geländedarstellung Reproduktion Übung
 Reproduktion des Stils einer Wandkarte von Berlin-Brandenburg.
 
 ![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/BBReproduktion.png?raw=true)
@@ -49,3 +49,26 @@ Darstellung von Höhenschichten in Berlin.
 Darstellung der Höhenschichten in Berlin mit der Tanaka-Methode.
 
 ![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/Tanaka.jpg?raw=true)
+
+## 6. Woche (12.11.2026) - 
+
+## 7. Woche (19.11.2026) -
+
+## 8. Woche (26.11.2026) - 3D Visualisierung mehr-dimensionaler Daten
+
+Unterschiedliche Methoden zur 3D Visualisierung mehr-dimensionaler Daten am Beispiel von Temperaturdaten innerhalb Berlin-Brandenburgs. Während die x- und y-Koordinaten die Länge und Breite angeben gibt die z-Koordinate in diesem Datensatz die Stunde des Tages an.
+
+### Visualisierung mit Horizontalen Ebenen
+
+![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/HorizEbenen1.png)
+
+### Visualisierung mit Vertikalen Ebenen
+
+![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/VertiEbenen.png)
+
+
+![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/Tanaka.jpg?raw=true)
+![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/Tanaka.jpg?raw=true)
+![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/Tanaka.jpg?raw=true)
+![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/Tanaka.jpg?raw=true)
+
