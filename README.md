@@ -88,3 +88,6 @@ Unterschiedliche Methoden zur 3D Visualisierung mehr-dimensionaler Daten am Beis
 
 ![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/3DPunkteV2.png)
 
+### Visualisierung Luftdruck
+
+![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/HorizontalVertiAirpressureTemp.png)
