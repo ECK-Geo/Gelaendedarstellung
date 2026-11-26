@@ -52,7 +52,19 @@ Darstellung der Höhenschichten in Berlin mit der Tanaka-Methode.
 
 ## 6. Woche (12.11.2026) - 
 
+![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/KarteSpikes.png)
+
 ## 7. Woche (19.11.2026) -
+
+![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/3dbautuff.png)
+
+![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/3DBauten.png)
+
+![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/Schloss.png)
+
+![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/Fernsehturm.png)
+
+![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/Gelaendedarstellungh.png)
 
 ## 8. Woche (26.11.2026) - 3D Visualisierung mehr-dimensionaler Daten
 
@@ -66,9 +78,13 @@ Unterschiedliche Methoden zur 3D Visualisierung mehr-dimensionaler Daten am Beis
 
 ![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/VertiEbenen.png)
 
+### Visualisierung mit 3D-Oberflächen
 
-![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/Tanaka.jpg?raw=true)
-![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/Tanaka.jpg?raw=true)
-![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/Tanaka.jpg?raw=true)
-![enter image description here](https://github.com/ECK-Geo/Gelaendedarstellung/blob/main/Tanaka.jpg?raw=true)
+![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/3DOberflaeche.png)
+
+### Visualisierung mit Punktwolken
+
+![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/3DPunkteV1.png)
+
+![enter image description here](https://raw.githubusercontent.com/ECK-Geo/Gelaendedarstellung/refs/heads/main/3DPunkteV2.png)
 
